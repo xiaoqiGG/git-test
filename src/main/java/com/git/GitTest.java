@@ -3,6 +3,8 @@ package com.git;
 public class GitTest {
     public static void main(String[] args) {
         int a = 1;
-        System.out.println("hello,git");
+        int b = 2;
+        int c = 3;
+        int d = 4;
     }
 }
